@@ -27,7 +27,7 @@ export default function HeroSection() {
     
 
   return (
-    <div className="bg-lime-950 flex flex-col lg:grid lg:grid-flow-col items-center m-auto p-4 lg:p-10">
+    <div className="bg-black flex flex-col lg:grid lg:grid-flow-col items-center m-auto p-4 lg:p-10">
 
         {/* Left */}
 
